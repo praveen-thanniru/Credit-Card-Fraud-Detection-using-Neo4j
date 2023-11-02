@@ -1,1 +1,2 @@
-# Credit-Card-Fraud-Detection-Using-Neo4j
+# Credit Card Fraud Detection using Neo4j:
+Please visit the Report for details of the implementation. 
